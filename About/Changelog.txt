@@ -1,0 +1,4 @@
+# Changelog for WarhammerFreeguild
+
+1.4.0 - First publish
+
