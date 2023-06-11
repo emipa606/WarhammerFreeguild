@@ -2,7 +2,8 @@
 
 ![Image](https://i.imgur.com/buuPQel.png)
 
-Update of mod https://steamcommunity.com/sharedfiles/filedetails/?id=2007396784
+Update of Kompadts mod 
+https://steamcommunity.com/sharedfiles/filedetails/?id=2007396784
 
 ![Image](https://i.imgur.com/pufA0kM.png)
 
@@ -66,3 +67,4 @@ ko-fi.com/kompadt
 -  If you have the solution for a problem, please post it to the GitHub repository.
 
 
+https://steamcommunity.com/sharedfiles/filedetails/changelog/2962811979]Last updated 2023-06-11
